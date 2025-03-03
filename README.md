@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+👉 [Click here to view the live app](https://web-production-0f4c.up.railway.app)
+
+
 # 🏫 Simple School Management System
 
 This is a basic Django project for managing **schools** and **classes**. It is designed as a practice project to learn core Django concepts such as:
