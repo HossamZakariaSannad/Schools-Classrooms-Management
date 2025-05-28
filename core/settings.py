@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^s7skalx7yabjgz6lietdhtqi-y$!1(+urzvuzjo-vz@7v&dd@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['web-production-0f4c.up.railway.app']
+ALLOWED_HOSTS = ['schools-classrooms-management.onrender.com', '127.0.0.1']
 
 
 
@@ -87,7 +87,7 @@ DATABASES = {
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
-AUTH_PASSWORD_VALIDATORS = [
+AUTH_PASSWORD_ = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
     },
