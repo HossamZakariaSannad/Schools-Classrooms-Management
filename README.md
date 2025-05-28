@@ -1,7 +1,6 @@
 ## 🌐 Live Demo
 
-👉 [Click here to view the live app]((https://schools-classrooms-management.onrender.com/))
-
+👉 [Click here to view the live app](https://schools-classrooms-management.onrender.com/)
 
 # 🏫 Simple School Management System
 
